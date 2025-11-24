@@ -4,7 +4,7 @@
 I’m a third-year computer science student passionate about ** development**.  
 I mainly work on **Backend development** with **Spring and Django** and **Mini Project** in **C++, Python**.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kubikpatrick/](https://www.linkedin.com/in/fares-bezzaouya-8a775832b/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kubikpatrick/](https://www.linkedin.com/in/fares-bezzaouya/))
 
 ---
 
