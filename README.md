@@ -34,14 +34,3 @@ system-level projects in **C++** and scripting in **Python**.
 > A collection of small C++ projects covering various programming concepts and algorithms.
 
 **Stack:** C++
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![OTCHO00's GitHub stats](https://github-readme-stats.vercel.app/api?username=OTCHO00&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OTCHO00&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
