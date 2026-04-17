@@ -30,7 +30,7 @@ system-level projects in **C++** and scripting in **Python**.
 
 ---
 
-### ⚙️ [C++](https://github.com/OTCHO00/C) — C++ Projects Collection
+### ⚙️ [C++](https://github.com/OTCHO00/CPP) — C++ Projects Collection
 > A collection of small C++ projects covering various programming concepts and algorithms.
 
 **Stack:** C++
