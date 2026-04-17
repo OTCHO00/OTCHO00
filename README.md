@@ -8,7 +8,7 @@ I'm a passionate third-year computer science student focused on **backend develo
 I build robust APIs and services with **Spring Boot** and **Django**, and enjoy working on  
 system-level projects in **C++** and scripting in **Python**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fares-bezzaouya-8a775832b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fares-bezzaouya-8a775832b)
 
 </div>
 
